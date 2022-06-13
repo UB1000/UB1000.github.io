@@ -1,5 +1,5 @@
 ---
-title: "20220317test(과제제목)"
+title: "20220317_First_Rmakrdown"
 author: "UB1000(저자명)"
 date: '2022 3 17(제출일자)'
 output: pdf_document
