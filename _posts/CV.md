@@ -25,9 +25,9 @@ I'm a dedicated person and enthusiast who constantly seeks opportunities to grow
 ## Projects
 
 ### Safety Plan of Drive-Thru in Seoul]
-- [Project Description]
-- [Technologies Used]
-- [Project Link]
+- [Project Description : The policy research aimed at enhancing the safety of users of South Korea's first drive-thru (consisting of 49 locations) involved the assessment of traffic safety facilities and operational conditions at each store. It leveraged the findings of prior studies related to this topic. Based on these findings, strategies were proposed to improve user safety at the drive-thru locations.]
+- [Technologies Used : Field investigations were conducted]
+- [Project Link : You can find more information at (https://news.seoul.go.kr/traffic/archives/506936)]
 
 ### [Project Name]
 - [Project Description]
