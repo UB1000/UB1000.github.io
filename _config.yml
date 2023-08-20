@@ -110,9 +110,9 @@ author:
   location         : "Seoul, Republic of korea"
   email            : "chals_3@naver.com"
   links:
-    - label: "Email"
+    - label: "chals_3@naver.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "chals_3@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
