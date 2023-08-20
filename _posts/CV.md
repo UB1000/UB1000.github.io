@@ -1,0 +1,46 @@
+# My Resume
+
+## Introduction
+Hello! I'm [Uibeom Chun], a [Master] with a passion for [Traffic Safety, Big Data Analysis, GIS, Modeling]. 
+
+I'm a dedicated person and enthusiast who constantly seeks opportunities to grow and make a positive impact.
+
+## Experience
+
+### [Republic of Korea Armed Forces, ROK Armed Forces] - [Sergeant] (2017.03 - 2018.12)
+- [Summary of Responsibilitie ①: Maintaining national security]
+- [Summary of Responsibilitie ②: Transportation of human resources, ammunition, armored vehicles, etc.]
+- [Contributions : Based on high security awareness and sincerity, the ROK Army Transportation Commander’s Commendation Surface Ship (2018.03)]
+
+## Education
+
+### [University of Seoul] - [Bachelor's degree] (2016.03 - 2022.02)
+- [Transportaion Engineering / Bigdata Analysis]
+- [Relevant Projects: Advancement of route search for eco-friendly transportation, https://kst.or.kr/bbs/board.php?bo_table=tugo_programbook85&wr_id=119]
+
+### [University of Seoul] - [Master's degree] (2022.03 - 2023.08)
+- [Transportation Engineering / Smart-City]
+- [Master Thesis: Segment Level Accident Prediction Model on National Highway_ A Post-analysis Approach for Regional Safety Measures]
+
+## Projects
+
+### Safety Plan of Drive-Thru in Seoul]
+- [Project Description]
+- [Technologies Used]
+- [Project Link]
+
+### [Project Name]
+- [Project Description]
+- [Technologies Used]
+- [Project Link]
+
+## Skills (Classified as upper, middle and lower)
+upper : Ready to use for research, middle : It can be used for research, but it takes some time, lower : Consuming a lot of time and effort
+- [Programming Languages] R program(upper), Python(middle)
+- [Databases] SQL(lower)
+- [Tools and Frameworks] QGIS(middle), ArcGIS(upper)
+
+## Contact
+- Email: [chals_3@naver.com]
+- GitHub: [UB1000]
+- Instagram: [UB1000]
