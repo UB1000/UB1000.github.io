@@ -107,8 +107,8 @@ author:
   name             : "Uibeom Chun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hello, this is my portfoli, thanks for visiting"
-  location         : "Somewhere"
-  email            :
+  location         : "Seoul, Republic of korea"
+  email            : "chals_3@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
