@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Uibeom Chun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello, this is my portfoli, thanks for visiting"
+  bio              : "Hello, this is my portfolio, thanks for visiting"
   location         : "Seoul, Republic of korea"
   email            : "chals_3@naver.com"
   links:
