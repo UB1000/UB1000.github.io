@@ -1,0 +1,75 @@
+---
+layout: post
+title: Reserarch
+---
+
+> # Research (Listing Representative Studies Only)
+
+> > ## [Safety Plan of Drive-Thru in Seoul]
+> > > - [Project Description]
+> > >   The policy research aimed at enhancing the safety of users of South Korea's first drive-thru (consisting of 49 locations) involved the assessment of
+> > >   traffic safety facilities and operational conditions at each store. It leveraged the findings of prior studies related to this topic. Based on these
+> > >   findings, strategies were proposed to improve user safety at the drive-thru locations.
+  
+> > > - [Technologies Used]
+> > >   Field investigations were conducted.
+  
+> > > - [Project Link]
+> > >   You can find more information at [url](https://news.seoul.go.kr/traffic/archives/506936)
+
+> > ## [Study on Establishing the 4th Seoul Traffic Safety Master Plan]
+> > > - [Project Description]
+> > >   This research aims to propose measures for preventing traffic accidents through a thorough analysis of the characteristics of traffic accidents in Seoul
+> > >   over the next five years (2022-2026).
+  
+> > > - [Technologies Used]
+> > >   The study involves the utilization of GIS and data collection using crawling techniques (Python).
+  
+> > > - [Project Link]
+> > >   You can find more information at [url](https://opengov.seoul.go.kr/public/26284385)
+
+> > ## [Development of Basic Plans and Manuals for Ensuring Traffic Safety in School Zones]
+> > > - [Project Description]
+> > >   This project involves the analysis of traffic accident patterns within Seoul's extensive 1750 designated school zones. Through an in-depth examination of
+> > >   children's behavior characteristics, the study aims to propose various feasible measures (policies) to reduce traffic accidents in these school zones.
+> > >   Particularly, utilizing GIS, the study conducts an additional analysis of accident patterns based on road width, a factor that has not been previously
+> > >   explored
+
+> > > - [Technologies Used]
+> > >   The study involves the utilization of GIS and data collection using crawling techniques (Python).
+> > >   Plus, using R, characteristics extracted systematically from the analysis of traffic accidents.
+  
+> > > - [Project Link]
+> > >   You can find more information at [url](https://news.seoul.go.kr/traffic/archives/509155)
+
+> > ## [A Study on the Development of Road Safety Evaluation Method for National Highway]
+> > > - [Project Description]
+> > >   To analyze the causes of traffic accidents on national highways, GIS-based data was collected. Using the collected data, various models were constructed,
+> > >   and the selected optimal model was used to perform an analysis of factors contributing to accidents.
+
+> > > - [Technologies Used]
+> > >   In this study, GIS was employed for systematic data collection, and accident prediction models were developed using machine learning-based accident
+> > >   prediction models and generalized regression models
+  
+> > > - [Project Link]
+> > >   You can find more information at [url](https://www.kotsa.or.kr/portal/bbs/transafe_view.do?bbscSeqn=5528&menuCode=05070100)
+
+> > ## [Consulting Service for Traffic Accident Prediction and Hazard Assessment of Jisan Interchange Exit]
+> > > - [Project Description]
+> > >   This service evaluates the risk associated with the upcoming Jisan Interchange (IC) in Gwangju, South Korea. This interchange is designed with a left exit
+> > >   configuration, which is not commonly used in Korea. Due to the potential accident risks associated with this unique design, an analysis is conducted from
+> > >   both traffic flow and accident risk perspectives.
+
+> > > - [Technologies Used]
+> > >   From a traffic flow perspective, camera data and on-site surveys are used to create a driving environment, which is then incorporated into the micro-
+> > >   simulation tool VISSIM to determine congestion levels. Regarding accident risk("My part"), vehicle driving simulators are employed to analyze driver
+> > >   behavior based on GPS data, including attributes such as steering, acceleration, and speed. This analysis is conducted for both left and right exits,
+> > >   taking into account factors such as gender and age group, to predict potential hazards.
+
+> > > - [Project Link]
+> > >   You can't find more information due to confidential study
+
+> > ## Contact
+> > > - Email: [chals_3@naver.com]
+> > > - GitHub: [UB1000]
+> > > - Instagram: [UB1000]
